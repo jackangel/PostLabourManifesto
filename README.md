@@ -88,6 +88,3 @@ We reject the notion that a human being is only valuable if they are profitable.
 *   **End State:** Humanity is stabilized, safe, and prepared for the integration with AGI.
 
 ---
-
-**Signed,**
-*A concerned citizen*
