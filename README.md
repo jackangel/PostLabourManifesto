@@ -29,6 +29,7 @@ We reject the notion that a human being is only valuable if they are profitable.
 1.  **Positive Karma (Level 1 to 100):** You earn points for pro-social behavior (caregiving, learning, cleaning the environment, mentoring).
 2.  **The Rewards:** Positive Karma buys access to scarcity: larger homes, travel, luxury goods, and priority access to high-energy computation.
 3.  **The Ceiling:** There is a hard cap (Level 100). You cannot hoard power. You must spend or donate your excess Karma to maintain your status.
+4.  **The Decay Principle:** Karma naturally degrades through inaction. If you cease contributing to society, your Karma slowly decays toward Level 0. This ensures that status must be maintained through ongoing participation, not past achievements. The decay rate accelerates at higher levels—those at Level 100 must remain highly active to sustain their position, while those near Level 0 experience minimal decay. Complete inactivity will eventually return anyone to Level 0, though the Basic Needs Basket remains guaranteed.
 
 ---
 
